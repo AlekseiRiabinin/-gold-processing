@@ -14,5 +14,5 @@ Industry companies / Industry / Industry, Services for business [b2b] (outsourci
 - Matplotlib
 - Seaborn
 
-## 4. Rersults
+## 4. Results
 Technological process of gold recovery is studied in detail. Recovery rate is calculated and assessed by sMAPE metric which shows the high accuracy of predictions and low percentage error. The best models are Bagging Regressor and Gradient Boosting with results just below 9 (8.68 and 8.89 respectively).
